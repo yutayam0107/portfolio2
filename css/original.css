@@ -7,3 +7,21 @@
   text-align:left;
   width:120%;
 }
+.portfolio-links{
+  margin:0 0 30px -70px;
+  width:130%;
+}
+.link-up{
+
+}
+.link-down{
+  display:flex;
+  margin:0 0 0 10px;
+}
+  .link-image{
+    
+  }
+  .link-explain{
+    margin:0 0 0 10px;
+    font-size:1.5rem;
+  }
